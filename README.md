@@ -220,6 +220,7 @@ Click:
 ```text
 Save & Test
 ```
+<img width="1886" height="852" alt="1" src="https://github.com/user-attachments/assets/cc5cb167-592e-472d-a764-6cc7c78e485a" />
 
 ---
 
