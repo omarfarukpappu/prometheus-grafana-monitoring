@@ -153,6 +153,7 @@ Check:
 ```bash
 Status → Targets → UP
 ```
+<img width="1902" height="437" alt="3" src="https://github.com/user-attachments/assets/c7dbca14-5de9-496f-8cf3-49bab3e86ff8" />
 
 ---
 
