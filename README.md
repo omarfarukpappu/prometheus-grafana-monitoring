@@ -304,10 +304,4 @@ Grafana Dashboard ID:
 
 ---
 
-# Future Improvements
 
-- AlertManager Integration
-- Slack/Telegram Alerts
-- Docker Deployment
-- Systemd Service Setup
-- SSL/HTTPS Configuration
